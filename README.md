@@ -1,6 +1,5 @@
 # etl-pipeline-with-gcp
 
-- Made by [DongMin Cho](https://www.linkedin.com/in/giblesdeepmind/)
 - GCP를 이용해 ETL 파이프라인을 구축해보는 프로젝트입니다.
 
 ## 콘텐츠
